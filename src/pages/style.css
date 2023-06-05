@@ -15,6 +15,7 @@
 
 
 .banner__title {
+    min-width: 300px;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -24,7 +25,7 @@
 }
 
 .item-image {
-    min-width: 300px !important;
+    min-width: 250px !important;
     height: 200px !important;
     background-color:#200;
 }
