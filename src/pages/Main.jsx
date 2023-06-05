@@ -35,7 +35,7 @@ const Main = () => {
   return (
     <>
       <div className='banner'>
-          <h1 className='banner__title'>Lorem, ipsum dolor.</h1>
+          <h1 className='banner__title text-center'>Lorem, ipsum dolor.</h1>
       </div>
       <div className="container mt-5 ">
         <div className="row g-4 px-3">
