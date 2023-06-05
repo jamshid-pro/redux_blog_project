@@ -1,0 +1,15 @@
+nav {
+  background-color: #002;
+}
+
+nav ul > a.active {
+  text-decoration: underline !important;
+}
+
+nav ul > a {
+    position: relative;
+}
+
+.form-main {
+  max-width: 800px !important;
+}

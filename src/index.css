@@ -1,0 +1,15 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #002;
+    height: 100vh;
+}
+
+.bg-blue {
+    background: #003;
+}
